@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "Priyanka Gohel",
+      "city": "Ahmedabad",
+      "phoneNumber": "9876556789",
+      "email": "priyanka@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Dipal Patel",
+      "city": "Bhavnagar",
+      "phoneNumber": "7654334567",
+      "email": "dipal@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Neha Khorasiya",
+      "city": "Surat",
+      "phoneNumber": "7889627516",
+      "email": "neha@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Bhavi KHokhariya",
+      "city": "Junagadh",
+      "phoneNumber": "9749621114",
+      "email": "bhavi@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Meera Savaliya",
+      "city": "Amreli",
+      "phoneNumber": "9876962516",
+      "email": "meera@email.com"
+    }
+  ]
